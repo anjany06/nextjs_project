@@ -1,0 +1,34 @@
+{
+  "courses" : [
+    {
+      "id" : 1,
+      "title" : "Guitar Fundamentals",
+      "slug" : "guitar-Fundamentals",
+      "description" : "Learn the basics of guitar playing.",
+      "price" : 99.99,
+      "instructor" : "john Doe",
+      "isFeatured" : true,
+      "image" : "/courses/guitar/jpg"
+    },
+    {
+      "id" : 2,
+      "title" : "Guitar Fundamentals",
+      "slug" : "guitar-Fundamentals",
+      "description" : "Learn the basics of guitar playing.",
+      "price" : 99.99,
+      "instructor" : "john Doe",
+      "isFeatured" : true,
+      "image" : "/courses/guitar/jpg"
+    }
+    ,{
+      "id" : 3,
+      "title" : "Guitar Fundamentals",
+      "slug" : "guitar-Fundamentals",
+      "description" : "Learn the basics of guitar playing.",
+      "price" : 99.99,
+      "instructor" : "john Doe",
+      "isFeatured" : true,
+      "image" : "/courses/guitar/jpg"
+    }
+  ]
+}
