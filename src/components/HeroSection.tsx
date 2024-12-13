@@ -10,7 +10,7 @@ import { FaXTwitter } from "react-icons/fa6";
 function HeroSection() {
   return (
     <div
-      className="h-auto md:h-[40rem] w-full rounded-md flex flex-col items-center
+      className="min-h-screen md:h-[40rem] w-full rounded-md flex flex-col items-center
      justify-center relative overflow-hidden mx-auto py-10 md:py-0"
     >
       {" "}
@@ -23,10 +23,10 @@ function HeroSection() {
           Hello I'm Anjany Pandey
         </h1>
         <p className="mt-5 font-normal text-base md:text-xl text-neutral-300 max-w-xl mx-auto">
-          A Passionate front-end developer with a strong
-          foundation in C++ and a growing expertise in React.js, currently
-          pursuing BCA from VIPS-TC. I enjoy turning complex problems into
-          simple, beautiful, and intuitive designs.
+          A Passionate front-end developer with a strong foundation in C++ and a
+          growing expertise in React.js, currently pursuing BCA from VIPS-TC. I
+          enjoy turning complex problems into simple, beautiful, and intuitive
+          designs.
         </p>
         <div className="mt-6 flex md:flex-row flex-col justify-center items-center gap-8">
           <div>

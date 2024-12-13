@@ -4,7 +4,7 @@
       "id" : 1,
       "title" : "Guitar Fundamentals",
       "slug" : "guitar-Fundamentals",
-      "description" : "Learn the basics of guitar playing.",
+      "description" : "A dynamic calculator built with React.js, featuring a user-friendly interface and advanced calculation capabilities.",
       "price" : 99.99,
       "instructor" : "john Doe",
       "isFeatured" : true,
@@ -14,7 +14,7 @@
       "id" : 2,
       "title" : "Guitar Fundamentals",
       "slug" : "guitar-Fundamentals",
-      "description" : "Learn the basics of guitar playing.",
+      "description" : "A dynamic calculator built with React.js, featuring a user-friendly interface and advanced calculation capabilities.",
       "price" : 99.99,
       "instructor" : "john Doe",
       "isFeatured" : true,
@@ -24,11 +24,42 @@
       "id" : 3,
       "title" : "Guitar Fundamentals",
       "slug" : "guitar-Fundamentals",
-      "description" : "Learn the basics of guitar playing.",
+      "description" : "A dynamic calculator built with React.js, featuring a user-friendly interface and advanced calculation capabilities.",
       "price" : 99.99,
       "instructor" : "john Doe",
       "isFeatured" : true,
       "image" : "/courses/guitar/jpg"
     }
+    ,{
+      "id" : 4,
+      "title" : "Guitar Fundamentals",
+      "slug" : "guitar-Fundamentals",
+      "description" : "A dynamic calculator built with React.js, featuring a user-friendly interface and advanced calculation capabilities.",
+      "price" : 99.99,
+      "instructor" : "john Doe",
+      "isFeatured" : true,
+      "image" : "/courses/guitar/jpg"
+    }
+    ,{
+      "id" : 5,
+      "title" : "Guitar Fundamentals",
+      "slug" : "guitar-Fundamentals",
+      "description" : "A dynamic calculator built with React.js, featuring a user-friendly interface and advanced calculation capabilities.",
+      "price" : 99.99,
+      "instructor" : "john Doe",
+      "isFeatured" : true,
+      "image" : "/courses/guitar/jpg"
+    }
+    ,{
+      "id" : 6,
+      "title" : "Guitar Fundamentals",
+      "slug" : "guitar-Fundamentals",
+      "description" : "A dynamic calculator built with React.js, featuring a user-friendly interface and advanced calculation capabilities.",
+      "price" : 99.99,
+      "instructor" : "john Doe",
+      "isFeatured" : true,
+      "image" : "/courses/guitar/jpg"
+    }
+
   ]
 }
