@@ -6,6 +6,7 @@ import { FaLinkedin } from "react-icons/fa";
 import { Spotlight } from "./ui/Spotlight";
 import { Button } from "./ui/moving-border";
 import { FaXTwitter } from "react-icons/fa6";
+import { CgMail } from "react-icons/cg";
 
 function HeroSection() {
   return (
@@ -61,6 +62,13 @@ function HeroSection() {
               style={{ width: "50px", height: "50px" }}
             >
               <FaXTwitter style={{ width: "30px", height: "30px" }} />
+            </Button>
+            <Button
+              borderRadius="0rem"
+              className="bg-white dark:bg-black text-black dark:text-white border-neutral-200 dark:border-slate-800"
+              style={{ width: "50px", height: "50px" }}
+            >
+              <CgMail  style={{ width: "30px", height: "30px" }} />
             </Button>
           </div>
         </div>
