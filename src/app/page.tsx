@@ -2,6 +2,7 @@ import HeroSection from "@/components/HeroSection";
 import Featured from "@/components/Featured";
 import WhyChooseUs from "@/components/WhyChooseUs";
 import SkillsCard from "@/components/SkillsCard";
+import UpcomingWebinars from "@/components/UpcomingWebinars";
 
 export default function Home() {
   return (
@@ -9,8 +10,8 @@ export default function Home() {
     <main className="min-h-screen bg-black/[0.96] antialiased bg-grid-white/[0.02]">
       <HeroSection />
       <Featured />
-      {/* <WhyChooseUs /> */}
       <SkillsCard />
+      <UpcomingWebinars />
     </main>
   );
 }
