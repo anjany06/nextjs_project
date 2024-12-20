@@ -4,6 +4,7 @@ import WhyChooseUs from "@/components/WhyChooseUs";
 import SkillsCard from "@/components/SkillsCard";
 import UpcomingWebinars from "@/components/UpcomingWebinars";
 import Contact from "@/components/Contact";
+import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <SkillsCard />
       <UpcomingWebinars />
       <Contact />
+      <Footer />
     </main>
   );
 }
