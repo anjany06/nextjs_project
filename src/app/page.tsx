@@ -3,6 +3,7 @@ import Featured from "@/components/Featured";
 import WhyChooseUs from "@/components/WhyChooseUs";
 import SkillsCard from "@/components/SkillsCard";
 import UpcomingWebinars from "@/components/UpcomingWebinars";
+import Contact from "@/components/Contact";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
       <Featured />
       <SkillsCard />
       <UpcomingWebinars />
+      <Contact />
     </main>
   );
 }
