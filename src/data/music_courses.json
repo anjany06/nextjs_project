@@ -2,64 +2,65 @@
   "courses" : [
     {
       "id" : 1,
-      "title" : "Guitar Fundamentals",
-      "slug" : "guitar-Fundamentals",
-      "description" : "A dynamic calculator built with React.js, featuring a user-friendly interface and advanced calculation capabilities.",
-      "price" : 99.99,
-      "instructor" : "john Doe",
+      "title" : "Muscle Map",
+      "slug" : "Muscle Map",
+      "description" : "Muscle Map is a fitness-focused web application built with React and Material-UI. It allows users to explore various exercises based on equipment, targeted muscles, or body parts.",
+      "code": "https://github.com/anjany06/MUSCLE-MAP",
+      "Link": "https://musclemap.vercel.app/",
       "isFeatured" : true,
-      "image" : "/courses/guitar/jpg"
+      "image" : "/images/muscleMap.png"
     },
     {
       "id" : 2,
-      "title" : "Guitar Fundamentals",
-      "slug" : "guitar-Fundamentals",
-      "description" : "A dynamic calculator built with React.js, featuring a user-friendly interface and advanced calculation capabilities.",
-      "price" : 99.99,
-      "instructor" : "john Doe",
+      "title" : "Muscle Map",
+      "slug" : "Muscle Map",
+      "description" : "Muscle Map is a fitness-focused web application built with React and Material-UI. It allows users to explore various exercises based on equipment, targeted muscles, or body parts.",
+      "code": "https://github.com/anjany06/MUSCLE-MAP",
+      "Link": "https://musclemap.vercel.app/",
       "isFeatured" : true,
-      "image" : "/courses/guitar/jpg"
-    }
-    ,{
+      "image" :"/images/muscleMap.png"
+    },
+    {
       "id" : 3,
-      "title" : "Guitar Fundamentals",
-      "slug" : "guitar-Fundamentals",
-      "description" : "A dynamic calculator built with React.js, featuring a user-friendly interface and advanced calculation capabilities.",
-      "price" : 99.99,
-      "instructor" : "john Doe",
+      "title" : "Muscle Map",
+      "slug" : "Muscle Map",
+      "description" : "Muscle Map is a fitness-focused web application built with React and Material-UI. It allows users to explore various exercises based on equipment, targeted muscles, or body parts.",
+      "code": "https://github.com/anjany06/MUSCLE-MAP",
+      "Link": "https://musclemap.vercel.app/",
       "isFeatured" : true,
-      "image" : "/courses/guitar/jpg"
-    }
-    ,{
+      "image" : "/images/muscleMap.png"
+    },
+    {
       "id" : 4,
-      "title" : "Guitar Fundamentals",
-      "slug" : "guitar-Fundamentals",
-      "description" : "A dynamic calculator built with React.js, featuring a user-friendly interface and advanced calculation capabilities.",
-      "price" : 99.99,
-      "instructor" : "john Doe",
+      "title" : "Muscle Map",
+      "slug" : "Muscle Map",
+      "description" : "Muscle Map is a fitness-focused web application built with React and Material-UI. It allows users to explore various exercises based on equipment, targeted muscles, or body parts.",
+      "code": "https://github.com/anjany06/MUSCLE-MAP",
+      "Link": "https://musclemap.vercel.app/",
       "isFeatured" : true,
-      "image" : "/courses/guitar/jpg"
-    }
-    ,{
+      "image" : "/images/muscleMap.png"
+    },
+    {
       "id" : 5,
-      "title" : "Guitar Fundamentals",
-      "slug" : "guitar-Fundamentals",
-      "description" : "A dynamic calculator built with React.js, featuring a user-friendly interface and advanced calculation capabilities.",
-      "price" : 99.99,
-      "instructor" : "john Doe",
+      "title" : "Muscle Map",
+      "slug" : "Muscle Map",
+      "description" : "Muscle Map is a fitness-focused web application built with React and Material-UI. It allows users to explore various exercises based on equipment, targeted muscles, or body parts.",
+      "code": "https://github.com/anjany06/MUSCLE-MAP",
+      "Link": "https://musclemap.vercel.app/",
       "isFeatured" : true,
-      "image" : "/courses/guitar/jpg"
-    }
-    ,{
+      "image" : "/images/muscleMap.png"
+    },
+    {
       "id" : 6,
-      "title" : "Guitar Fundamentals",
-      "slug" : "guitar-Fundamentals",
-      "description" : "A dynamic calculator built with React.js, featuring a user-friendly interface and advanced calculation capabilities.",
-      "price" : 99.99,
-      "instructor" : "john Doe",
+      "title" : "Muscle Map",
+      "slug" : "Muscle Map",
+      "description" : "Muscle Map is a fitness-focused web application built with React and Material-UI. It allows users to explore various exercises based on equipment, targeted muscles, or body parts.",
+      "code": "https://github.com/anjany06/MUSCLE-MAP",
+      "Link": "https://musclemap.vercel.app/",
       "isFeatured" : true,
-      "image" : "/courses/guitar/jpg"
+      "image" : "/images/muscleMap.png"
     }
-
+    
+    
   ]
 }
